@@ -1,0 +1,1 @@
+"use strict";function hoge(e){console.log(e)}ScrollReveal().reveal(".js-scroll-mv",{duration:1e3,origin:"bottom",reset:!1}),ScrollReveal().reveal(".js-scroll",{duration:1e3,distance:"100px",origin:"bottom",reset:!1});
